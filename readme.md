@@ -39,9 +39,7 @@ I want to see clips filtered by interest
 
 ----video.mp4
 
-----timestamps.txt
-
 ----/imgs
 
------img_001.jpg
+-----img_famenumber.jpg
 

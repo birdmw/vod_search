@@ -10,7 +10,7 @@
 
 ### Task 1
 
-collect some data
+collect some videos
 
 split into frames (done)
 
@@ -38,6 +38,8 @@ I want to see clips filtered by interest
 ---/video_name_001
 
 ----video.mp4
+
+----timestamps.txt
 
 ----/imgs
 

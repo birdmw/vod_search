@@ -2,9 +2,9 @@
 
 # Overriding agenda:
 
-## Take a collection of game (videogame / NFL / ESPN / etc.) vods
-## build a model which can extract some information
-## make that information searchable to a user
+1. Take a collection of game (videogame / NFL / ESPN / etc.) vods
+2. build a model which can extract some information
+3. make that information searchable to a user
 
 
 

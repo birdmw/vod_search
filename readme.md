@@ -32,8 +32,14 @@ I want to see clips filtered by interest
 # Folder structure
 
 -/
+
 --/data
+
 ---/video_name_001
+
 ----video.mp4
+
 ----/imgs
+
 -----img_001.jpg
+
